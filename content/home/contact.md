@@ -5,6 +5,9 @@ widget: contact
 # This file represents a page section.
 headless: true
 
+active = true  # Activate this widget? true/false
+
+
 # Order that this section appears on the page.
 weight: 130
 
@@ -25,32 +28,25 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: jing.zhang@uci.edu
+  phone: 
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: SSL 380, UCI
+    city: Irvine
     region: CA
-    postcode: '94305'
+    postcode: '92617'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '33.6405'
+    longitude: '-117.8443'
+  directions: Enter SSL and take the stairs to Office 380 on Floor 3
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://twitter.com/jingandzhang'
+
 
 design:
   columns: '2'
