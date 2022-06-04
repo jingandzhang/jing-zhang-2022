@@ -5,14 +5,15 @@ widget: contact
 # This file represents a page section.
 headless: true
 
-active = true  # Activate this widget? true/false
+# Activate this widget? true/false
+active: true
 
 
 # Order that this section appears on the page.
 weight: 130
 
 title: Contact
-subtitle:
+
 
 content:
   # Automatically link email and phone or display as text?
@@ -29,7 +30,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: jing.zhang@uci.edu
-  phone: 
+ # phone: 
   address:
     street: SSL 380, UCI
     city: Irvine
