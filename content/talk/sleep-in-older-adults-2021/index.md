@@ -5,14 +5,14 @@ title: "Sleep in older adults and women during menstrual cycles and menopause"
 event: undergraduate course at UCI
 event_url:
 location:Irvine, CA
-#address:
-#  street:
-#  city:
-#  region:
-#  postcode:
-#  country:
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:A lecture given for undergraduate students at UCI on how sleep changes with aging, with a focus on the role of sex hormones.
-#abstract:
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
