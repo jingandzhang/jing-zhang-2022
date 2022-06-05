@@ -41,7 +41,7 @@ links:
     url: https://twitter.com/jingandzhang
 url_code: ''
 url_pdf: ''
-url_slides: 'static/sleep-in-older-adults-2021.pdf'
+url_slides: 'files/sleep-in-older-adults-2021.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
