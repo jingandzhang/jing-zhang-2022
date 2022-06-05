@@ -1,9 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Menstrual cycle-related changes in sleep-dependent emotional memory consolidation"
+title: Menstrual cycle-related changes in sleep-dependent emotional memory consolidation
+
 event:SLEEP 2022
 event_url:https://www.sleepmeeting.org/
+
 location:Charlotte, NC
 address:
   street:
@@ -11,8 +13,8 @@ address:
   region:
   postcode:
   country:
-summary:A talk given in the SLEEP annual meeting 2022. It’s a long-hold belief that women during the premenstrual phase are negatively affected in terms of their emotion and cognition. This belief was used to prevent women from working and studying at universities in the past. But, does menstrual cycle actually have such a significant effect on women’s emotion and memory? Let’s hear about what science has to say.
-abstract:
+summary:
+abstract: 'A talk given in the SLEEP annual meeting 2022. It’s a long-hold belief that women during the premenstrual phase are negatively affected in terms of their emotion and cognition. This belief was used to prevent women from working and studying at universities in the past. But, does menstrual cycle actually have such a significant effect on women’s emotion and memory? Let’s hear about what science has to say.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
