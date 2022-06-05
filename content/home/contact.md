@@ -41,7 +41,7 @@ content:
   coordinates:
     latitude: '33.6405'
     longitude: '-117.8443'
-  directions: Enter SSL and take the stairs to Office 380 on Floor 3
+  directions: Enter SSL and take the stairs to office 380 on Floor 3
   contact_links:
     - icon: twitter
       icon_pack: fab
