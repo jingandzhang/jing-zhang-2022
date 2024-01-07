@@ -10,30 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Irvine
+- name: Massachusetts General Hospital/ Harvard Medical School
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD candidate researching sleep and memory
+bio: Postdoc researching sleep and memory
 
 interests:
   - Neural mechanism underlying sleep-dependent memory consolidation 
-  - Heart rate variability
-  - Sex steroids
+  - Non-invasive interventions to improve cognition 
   - Neural correlates of dreaming
+  - Brain-imaging techniques, EEG, fMRI, MEG 
 
 
 education:
   courses:
-  - course: PhD in Cognitive Neuroscience
+  - course: PhD in Cognitive Sciences
     institution: University of California, Irvine
-    year: 2020-present
+    year: 2020-2023
 
-  - course: MS in Cognitive Sciences
+  - course: MS in Cognitive Neuroscience
     institution: University of California, Irvine
     year: 2018-2020
 
@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student in cognitive neuroscience at the [Sleep and Cognition Lab](http://sleepandcognitionlab.org) (PI: [Sara Mednick](https://www.saramednick.com)). My research interests include cognitive processing and autonomic activities during sleep, with an overarching goal to understand the neural mechanism of sleep-dependent memory associated with aging and sex using brain-imaging tools including EEG and fMRI. 
+I am a postdoc researcher investigating how different brain oscillations contribute to memory in the healthy population and patients with schizophrenia in the [Sleep, Cognition, and Neuropsychiatry Lab](https://manoachlab.mgh.harvard.edu/) (PI: [Dara Manoach](https://sleep.hms.harvard.edu/faculty-staff/dara-s-manoach). My research interests focus on the neural mechanism of sleep-dependent memory processing, with an overarching goal to develop sleep-based non-invasive interventions to combat memory-related impairments and enhance the memory of healthy individuals
 
-Also a [science communicator](https://lohdownonscience.com/author/jingz18/) and a [foodie](https://www.instagram.com/socalishungry).
+Also a [science communicator](https://lohdownonscience.com/author/jingz18/) and a [foodie](https://www.instagram.com/sweetandhungry).

@@ -29,19 +29,19 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: jing.zhang@uci.edu
+  email: jzhang105@mgh.harvard.edu
  # phone: 
   address:
-    street: SSL 380, UCI
-    city: Irvine
-    region: CA
-    postcode: '92617'
+    street: 149 13th St
+    city: Charlestown
+    region: MA
+    postcode: '02129'
     country: United States
     country_code: US
   coordinates:
-    latitude: '33.6405'
-    longitude: '-117.8443'
-  directions: Enter SSL and take the stairs to office 380 on Floor 3
+    latitude: '42.3782' 
+    longitude: '-71.0501'
+  directions: Enter Athinoula A. Martinos Center for Biomedical Imaging and take the stairs to office 2626 on Floor 2
   contact_links:
     - icon: twitter
       icon_pack: fab
