@@ -22,9 +22,15 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 A growing body of research shows that sleep facilitates the consolidation of memories. For example, the number of sleep spindles (transient neural events in non-rapid eye movement (NREM) sleep, 9-15 Hz) and slow oscillations (<1Hz) in a post-training sleep period correlates with the magnitude of declarative memory improvement (e.g., conscious, episodic memories). Although these studies report that individual sleep features correlate with improvement in specific memory domains, we do not know if manipulating these sleep features will lead to changes in these precise memory domains. To this end, our lab has utilized a pharmacological approach to causally increase spindles and measure the effect on memory. 
 
 In this project, I used zolpidem, a GABA A agonist, to enhance sleep spindles during sleep. I improved and implemented burst-detection based algorithms to automatically detect sleep spindle events and spindle-slow oscillation coupling in MATLAB. And utilized cluster-based permutation for power spectrum estimation. I showed increased sleep-dependent memory with zolpidem, compared with placebo. Furthermore, the memory improvement was associated with increased spindles and their temporal coupling with slow oscillations. Our results suggest a functional role of both sigma and theta in which optimizing sleep spindles while preserving theta activity may be a goal of future sleep interventions to enhance memory consolidation.
+
+Related publications: 
+
+•	Zhang, J., Yetton, B., Whitehurst, L. N., Naji, M., & Mednick, S. C. (2020). The Effect of Zolpidem on Memory Consolidation Over a Night of Sleep. Sleep. https://doi.org/10.1093/sleep/zsaa084 
+•	Zhang, J., Whitehurst, L. N., & Mednick, S. C. (2022). The Role of Sleep for Episodic Memory Consolidation: Stabilizing or Rescuing? Neurobiology of Learning and Memory, 107621. https://doi.org/10.1016/j.nlm.2022.107621 
+•	Simon, K. C., Whitehurst, L. N., Zhang, J., & Mednick, S. C. (2021). Zolpidem Maintains Memories for Negative Emotions Across a Night of Sleep. Affective Science. https://doi.org/10.1007/s42761-021-00079-1
