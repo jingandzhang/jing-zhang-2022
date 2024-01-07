@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoc researcher investigating how different brain oscillations contribute to memory in the healthy population and patients with schizophrenia in the [Sleep, Cognition, and Neuropsychiatry Lab](https://manoachlab.mgh.harvard.edu/) (PI: [Dara Manoach](https://sleep.hms.harvard.edu/faculty-staff/dara-s-manoach). My research interests focus on the neural mechanism of sleep-dependent memory processing, with an overarching goal to develop sleep-based non-invasive interventions to combat memory-related impairments and enhance the memory of healthy individuals
+I am a postdoc researcher investigating how different brain oscillations contribute to memory in the healthy population and patients with schizophrenia in the [Sleep, Cognition, and Neuropsychiatry Lab](https://manoachlab.mgh.harvard.edu/) (PI: [Dara Manoach](https://sleep.hms.harvard.edu/faculty-staff/dara-s-manoach)). My research interests focus on the neural mechanism of sleep-dependent memory processing, with an overarching goal to develop sleep-based non-invasive interventions to combat memory-related impairments and enhance the memory of healthy individuals
 
 Also a [science communicator](https://lohdownonscience.com/author/jingz18/) and a [foodie](https://www.instagram.com/sweetandhungry).
